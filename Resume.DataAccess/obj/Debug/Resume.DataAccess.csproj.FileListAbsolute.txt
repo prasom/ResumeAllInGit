@@ -1,0 +1,5 @@
+E:\MY_PROJECT\RESUME\Resume.DataAccess\bin\Debug\Resume.DataAccess.dll
+E:\MY_PROJECT\RESUME\Resume.DataAccess\bin\Debug\Resume.DataAccess.pdb
+E:\MY_PROJECT\RESUME\Resume.DataAccess\obj\Debug\Resume.DataAccess.csprojResolveAssemblyReference.cache
+E:\MY_PROJECT\RESUME\Resume.DataAccess\obj\Debug\Resume.DataAccess.dll
+E:\MY_PROJECT\RESUME\Resume.DataAccess\obj\Debug\Resume.DataAccess.pdb

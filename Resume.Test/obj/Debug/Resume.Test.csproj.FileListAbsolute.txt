@@ -1,0 +1,5 @@
+E:\MY_PROJECT\RESUME\Resume.Test\bin\Debug\Resume.Test.dll
+E:\MY_PROJECT\RESUME\Resume.Test\bin\Debug\Resume.Test.pdb
+E:\MY_PROJECT\RESUME\Resume.Test\obj\Debug\Resume.Test.csprojResolveAssemblyReference.cache
+E:\MY_PROJECT\RESUME\Resume.Test\obj\Debug\Resume.Test.dll
+E:\MY_PROJECT\RESUME\Resume.Test\obj\Debug\Resume.Test.pdb

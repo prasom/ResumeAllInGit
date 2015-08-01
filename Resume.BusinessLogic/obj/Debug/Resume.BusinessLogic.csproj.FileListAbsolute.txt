@@ -1,0 +1,5 @@
+E:\MY_PROJECT\RESUME\Resume.BusinessLogic\bin\Debug\Resume.BusinessLogic.dll
+E:\MY_PROJECT\RESUME\Resume.BusinessLogic\bin\Debug\Resume.BusinessLogic.pdb
+E:\MY_PROJECT\RESUME\Resume.BusinessLogic\obj\Debug\Resume.BusinessLogic.csprojResolveAssemblyReference.cache
+E:\MY_PROJECT\RESUME\Resume.BusinessLogic\obj\Debug\Resume.BusinessLogic.dll
+E:\MY_PROJECT\RESUME\Resume.BusinessLogic\obj\Debug\Resume.BusinessLogic.pdb
