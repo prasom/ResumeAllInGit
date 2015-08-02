@@ -11,7 +11,7 @@ namespace ResumeApp.Controllers
         // GET: Default
         public ActionResult Index()
         {
-            return View();
+            return View("~/snapins/index.cshtml");
         }
     }
 }
