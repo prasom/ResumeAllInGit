@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resume.BusinessLogic", "Res
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resume.DataAccess", "Resume.DataAccess\Resume.DataAccess.csproj", "{EBE912E0-E710-4BBA-9F46-BF4AA4533834}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResumeApp", "ResumeApp\ResumeApp.csproj", "{24F03535-B381-4BAA-B6A4-C0F00EA16C41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{EBE912E0-E710-4BBA-9F46-BF4AA4533834}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBE912E0-E710-4BBA-9F46-BF4AA4533834}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBE912E0-E710-4BBA-9F46-BF4AA4533834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24F03535-B381-4BAA-B6A4-C0F00EA16C41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24F03535-B381-4BAA-B6A4-C0F00EA16C41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24F03535-B381-4BAA-B6A4-C0F00EA16C41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24F03535-B381-4BAA-B6A4-C0F00EA16C41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -37,5 +43,6 @@ Global
 		{15931D35-ECC2-400A-9E6A-30C714746A5C} = {ADF2604D-7A37-4A63-BF8F-2FA981BA84F8}
 		{EAE09B02-2AD6-4599-BE3F-E7D8A2BA1502} = {ADF2604D-7A37-4A63-BF8F-2FA981BA84F8}
 		{EBE912E0-E710-4BBA-9F46-BF4AA4533834} = {ADF2604D-7A37-4A63-BF8F-2FA981BA84F8}
+		{24F03535-B381-4BAA-B6A4-C0F00EA16C41} = {ADF2604D-7A37-4A63-BF8F-2FA981BA84F8}
 	EndGlobalSection
 EndGlobal
